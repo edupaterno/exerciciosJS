@@ -1,0 +1,74 @@
+html{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    margin: 0;
+    padding:  20px 0;
+    color: red;
+    text-shadow: 3px 3px 1px black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+pre{
+    color: rgb(122, 26, 26);
+}
+
+p, li{
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 3;
+}
+
+html{
+    /* background-color: rgba(236, 214, 196, 0.53);*/
+    background: linear-gradient(68.15deg, #2f2325 16.62%, #8e5d52 85.61% );
+    color: blue;
+
+}
+
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: aqua;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+    background-image: url("wickdbotz.png");
+    background-repeat: no-repeat;
+    background-size: 400px;
+}
+
+imagem{
+    display: block;
+    margin: 0 auto;
+    width: 350px;
+    border-radius: 50px;
+}
+
+.teste{
+    color:pink;
+}
+
+#curso{
+    text-size-adjust: ;
+}
+
+a:link{
+    color: green;
+}
+
+a:visited{
+    color: rgb(253, 8, 0);
+}
+
+a:hover{
+    background-color: aqua;
+    color: black;
+}
+
+a:active{
+    color: rgb(255, 247, 5);
+}

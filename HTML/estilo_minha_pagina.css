@@ -1,0 +1,20 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    margin: 0;
+    padding:  20px 0;
+    color: red;
+    text-shadow: 3px 3px 1px black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+head{
+    background-color: red;
+}
+
+image{
+    display: block;
+    margin: 0 auto;
+    width: 350px;
+    border-radius: 50px;
+}
